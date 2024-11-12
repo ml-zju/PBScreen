@@ -7,7 +7,7 @@ This repository contains code and data related to molecular data analysis and ma
 
 # Code Files
 ## Batch Train.ipynb
-- This Jupyter Notebook is likely used for training models in a batch processing manner. 
+- This Jupyter Notebook is used for training models in a batch processing manner. 
 ## Benchmark.ipynb
 - The `Benchmark.ipynb` notebook is designed to evaluate and compare the performance of different models or algorithms.
 ## Descriptors.ipynb
