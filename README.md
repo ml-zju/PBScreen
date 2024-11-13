@@ -46,6 +46,3 @@ This repository contains code and data related to molecular data analysis and ma
 # License
 This code and data are provided under the [Apache License 2.0](LICENSE). You are free to use, modify, and distribute them for both commercial and non-commercial purposes. However, please provide appropriate attribution to the original author.
 
-# Acknowledgments
-- The code and techniques in this repository may be based on or inspired by various research papers, open-source projects, and libraries. Please refer to the code comments and references within each notebook for more details.
-- Special thanks to the developers of the libraries used in this project, such as `rdkit`, `dgl`, and `torch`, for providing powerful tools for molecular data analysis and machine learning. Their work has made it possible to develop and implement these molecular modeling techniques.
