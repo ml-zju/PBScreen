@@ -1,6 +1,5 @@
 # PBScreen
 High-Throughput Screening of Placental Barrier–Permeable Contaminants Based on Multifusion Deep Learning
-# Molecular Data Analysis and Modeling README
 
 # Overview
 This repository contains code and data related to molecular data analysis and machine learning modeling. The goal is to provide tools and examples for working with molecular descriptors and graph representations to predict molecular properties.
